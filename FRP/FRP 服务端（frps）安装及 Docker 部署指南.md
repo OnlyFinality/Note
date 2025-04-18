@@ -150,7 +150,7 @@ http://你的IP:7500
 
 > 请确认图片路径正确，或上传至图床使用外链形式展示。
 
-![FRP 管理面板](file:///C:/%5CUsers%5C34861%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20250416172821909.png)
+![FRP 管理面板](image-20250416172821909.png)
 
 ------
 
